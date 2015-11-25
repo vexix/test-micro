@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scalatest:scalatest_2.11:3.0.0-M12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.11/3.0.0-M12/4b656339709799b5112cd6c4aef6fd51f61a313c/scalatest_2.11-3.0.0-M12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scalatest/scalatest_2.11/3.0.0-M12/42b34f0e2c44a50bea388632e54b4b82433aaf/scalatest_2.11-3.0.0-M12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

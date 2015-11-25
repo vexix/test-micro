@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sln/cic-inbound/cic-inbound.iml" filepath="$PROJECT_DIR$/sln/cic-inbound/cic-inbound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cic-outbound/cic-outbound.iml" filepath="$PROJECT_DIR$/cic-outbound/cic-outbound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sln/sln.iml" filepath="$PROJECT_DIR$/sln/sln.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sln/cic-outbound/sln-cic-outbound.iml" filepath="$PROJECT_DIR$/sln/cic-outbound/sln-cic-outbound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-micro.iml" filepath="$PROJECT_DIR$/test-micro.iml" />
+    </modules>
+  </component>
+</project>
